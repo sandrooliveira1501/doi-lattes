@@ -19,7 +19,7 @@ if (iframe){
         clone = doi_input.cloneNode(true)
         parent.removeChild(doi_input)
         parent.appendChild(clone)
-        clone.style.backgroundColor	= "#bbdefb"
+        clone.style.backgroundColor	= "#1de9b655"
         // clone.placeholder = ""      
     }
 }
